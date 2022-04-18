@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Prasoon:Prasoon98@cluster0.ldrev.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Prasoon:Prasoon98@cluster0.ldrev.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
 }

@@ -2,6 +2,9 @@ const express = require('express');
 const app = express();
 const connectDb = require('./config/db')
 const PORT =  process.env.PORT || 5000;
+// init middleware
+
+app.use(express.json({extended: false}))
 
 //connect DB connection
 connectDb();
