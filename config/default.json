@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://Prasoon:Prasoon98@cluster0.ldrev.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret" : "mysecrettoken"
+    "jwtSecret" : "mysecrettoken",
+    "githubClientId":"b81c9e5564dd713f5d69",
+    "githubSecret" : "0ffdc84ae19b550a23483e60f4109cf44bd75795 "
 }
